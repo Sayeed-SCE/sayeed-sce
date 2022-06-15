@@ -1,9 +1,7 @@
-###     👋 Hello World, I'm Sayeed!
+###                                                     👋 Hello World, I'm Sayeed!
 
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Portfolio Website
 - 🌱 I’m currently learning Database Management with Sql.
