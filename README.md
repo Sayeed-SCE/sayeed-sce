@@ -3,11 +3,13 @@
 
 
 
-- 🔭 Currently Iam working on my portfolio website 
-- 🌱 Currently learning database management with Sql.
-- 👯 I’m looking to collaborate on building software projects
-- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Python, Java
-- 📫 How to reach me: 
+- 🔭 Currently I am working on my data structure and algorithms knowledge
+- 🌱 Currently I am learning machine learning with python
+- 💬 Ask me about soccer or gym and we will be best friends. 
+- 📫 How to reach me: najeeb.sayeed89@gmail.com
+- 💻 Favroit programming languages: javascript, python, sql, c/c++, java
 - 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I'm a night owl, love coding, hiking, basketball, soccer.
+- ⚡  Fun fact: I love redwood forests and hiking.
 
+                            
+                                                  
