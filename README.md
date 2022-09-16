@@ -46,6 +46,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
+
 </p>
 
 ![ GitHub status](https://github-readme-stats.vercel.app/api?username=sayeed-sce&show_icons=true&theme=merko)
