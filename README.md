@@ -13,7 +13,7 @@
 
 
 
-#F7DF1E
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb)
 
                             
                                                   
