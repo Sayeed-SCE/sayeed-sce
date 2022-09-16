@@ -13,7 +13,7 @@
 
 
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb)
+![Folow URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb)
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </p>
 
-![Sayeed's GitHub status](https://github-readme-stats.vercel.app/api?username=sayeed-sce&show_icons=true&theme=radical)
+![ GitHub status](https://github-readme-stats.vercel.app/api?username=sayeed-sce&show_icons=true&theme=radical)
 
 
   
