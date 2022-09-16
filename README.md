@@ -12,20 +12,19 @@
 - ⚡  Fun fact: I love redwood forests and hiking.
 
 
-<a href="https://twitter.com/alekswritescode">
+<a href="https://twitter.com/sayeed_najeeb">
   <img
     alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb&style=for-the-badge"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+<a href="https://www.linkedin.com/in/sayeed-najeebullah/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-![Folow URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/sayeed-sce)
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
