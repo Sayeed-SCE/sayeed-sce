@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </p>
 
-![ GitHub status](https://github-readme-stats.vercel.app/api?username=sayeed-sce&show_icons=true&theme=radical)
+![ GitHub status](https://github-readme-stats.vercel.app/api?username=sayeed-sce&show_icons=true&theme=merko)
 
 
   
