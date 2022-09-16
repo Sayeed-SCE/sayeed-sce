@@ -13,7 +13,7 @@
 
 
 
-![Folow URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb)
+![Folow URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fsayeed_najeeb) [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
