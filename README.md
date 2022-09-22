@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 Currently I am working on my data structure and algorithms knowledge
 - 🌱 I want to learn AI/ML next
-- 💻 Favroit programming languages: javascript, python, sql, c/c++, java
+- 💻 Favorit programming languages: JavaScript, Python, SQL, C/C++, Java
 - 📫 How to reach me: najeeb.sayeed89@gmail.com
 - 💬 Ask me about soccer or gym and we will be best friends 
 - 😄 Pronouns: He/Him...
