@@ -21,7 +21,6 @@ Full-stack developer and computer engineering student at San José State Univers
 | [Dad Jokes API](https://github.com/Sayeed-SCE/web-sprint-challenge-authentication-and-testing) | REST API with registration, login and JWT-protected routes | Node, Express, bcrypt, JWT, Knex, Jest | — |
 | [Wheel & Quiz](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-state-Wheel-Redux) | Three-page app with all state in Redux and async API calls | React, Redux, Redux Thunk, React Router | [▶ Live](https://sayeed-sce.github.io/web-sprint-challenge-advanced-state-Wheel-Redux/) |
 | [Grid Widget](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-react-Grid-Widget) | Interactive grid game built as class and hooks components | React, Axios, Jest | [▶ Live](https://sayeed-sce.github.io/web-sprint-challenge-advanced-react-Grid-Widget/) |
-| [ChatIt](https://github.com/Sayeed-SCE/Group-5-Project) | Team-built Flask messaging app with accounts and friends | Python, Flask, SQLAlchemy | — |
 | [XML Roster File Checker](https://github.com/Sayeed-SCE/Parsing-Data-xml) | CLI tool that audits data feeds for missing files | Python | — |
 
 ## 🛠️ Tech I use
