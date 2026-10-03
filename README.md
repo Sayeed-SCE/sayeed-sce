@@ -15,14 +15,14 @@ Full-stack developer and computer engineering student at San José State Univers
 
 ## 🚀 Featured projects
 
-| Project | What it is | Stack |
-| ------- | ---------- | ----- |
-| [React Router Movies](https://github.com/Sayeed-SCE/React-Router-Movies) | Movie browser with routing, saved list and tests | React 19, React Router, Vite, Vitest, Express |
-| [Dad Jokes API](https://github.com/Sayeed-SCE/web-sprint-challenge-authentication-and-testing) | REST API with registration, login and JWT-protected routes | Node, Express, bcrypt, JWT, Knex, Jest |
-| [Wheel & Quiz](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-state-Wheel-Redux) | Three-page app with all state in Redux and async API calls | React, Redux, Redux Thunk, React Router |
-| [Grid Widget](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-react-Grid-Widget) | Interactive grid game built as class and hooks components | React, Axios, Jest |
-| [ChatIt](https://github.com/Sayeed-SCE/Group-5-Project) | Team-built Flask messaging app with accounts and friends | Python, Flask, SQLAlchemy |
-| [XML Roster File Checker](https://github.com/Sayeed-SCE/Parsing-Data-xml) | CLI tool that audits data feeds for missing files | Python |
+| Project | What it is | Stack | Demo |
+| ------- | ---------- | ----- | ---- |
+| [React Router Movies](https://github.com/Sayeed-SCE/React-Router-Movies) | Movie browser with routing, saved list and tests | React 19, React Router, Vite, Vitest, Express | [▶ Live](https://sayeed-sce.github.io/React-Router-Movies/) |
+| [Dad Jokes API](https://github.com/Sayeed-SCE/web-sprint-challenge-authentication-and-testing) | REST API with registration, login and JWT-protected routes | Node, Express, bcrypt, JWT, Knex, Jest | — |
+| [Wheel & Quiz](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-state-Wheel-Redux) | Three-page app with all state in Redux and async API calls | React, Redux, Redux Thunk, React Router | [▶ Live](https://sayeed-sce.github.io/web-sprint-challenge-advanced-state-Wheel-Redux/) |
+| [Grid Widget](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-react-Grid-Widget) | Interactive grid game built as class and hooks components | React, Axios, Jest | [▶ Live](https://sayeed-sce.github.io/web-sprint-challenge-advanced-react-Grid-Widget/) |
+| [ChatIt](https://github.com/Sayeed-SCE/Group-5-Project) | Team-built Flask messaging app with accounts and friends | Python, Flask, SQLAlchemy | — |
+| [XML Roster File Checker](https://github.com/Sayeed-SCE/Parsing-Data-xml) | CLI tool that audits data feeds for missing files | Python | — |
 
 ## 🛠️ Tech I use
 
