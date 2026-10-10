@@ -17,6 +17,7 @@ Full-stack developer and computer engineering student at San José State Univers
 
 | Project | What it is | Stack | Demo |
 | ------- | ---------- | ----- | ---- |
+| [Expense Tracker](https://github.com/Sayeed-SCE/expense-tracker) | Add, delete and total your expenses, with input validation | React 19, Vite, GitHub Pages | [▶ Live](https://sayeed-sce.github.io/expense-tracker/) |
 | [React Router Movies](https://github.com/Sayeed-SCE/React-Router-Movies) | Movie browser with routing, saved list and tests | React 19, React Router, Vite, Vitest, Express | [▶ Live](https://sayeed-sce.github.io/React-Router-Movies/) |
 | [Dad Jokes API](https://github.com/Sayeed-SCE/web-sprint-challenge-authentication-and-testing) | REST API with registration, login and JWT-protected routes | Node, Express, bcrypt, JWT, Knex, Jest | — |
 | [Wheel & Quiz](https://github.com/Sayeed-SCE/web-sprint-challenge-advanced-state-Wheel-Redux) | Three-page app with all state in Redux and async API calls | React, Redux, Redux Thunk, React Router | [▶ Live](https://sayeed-sce.github.io/web-sprint-challenge-advanced-state-Wheel-Redux/) |
